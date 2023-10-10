@@ -4,3 +4,10 @@
 [submodule "ProteinMPNN"]
 	path = ProteinMPNN
 	url = https://github.com/dauparas/ProteinMPNN.git
+[submodule "ColabFold"]
+	path = ColabFold
+	url = https://github.com/sokrypton/ColabFold.git
+[submodule "ColabDesign"]
+	path = ColabDesign
+	url = https://github.com/sokrypton/ColabDesign.git
+	branch = v1.1.1
