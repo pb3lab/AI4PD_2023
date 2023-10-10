@@ -1,0 +1,6 @@
+[submodule "RFdiffusion"]
+	path = RFdiffusion
+	url = https://github.com/RosettaCommons/RFdiffusion.git
+[submodule "ProteinMPNN"]
+	path = ProteinMPNN
+	url = https://github.com/dauparas/ProteinMPNN.git
