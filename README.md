@@ -40,3 +40,7 @@ We are pleased to announce the AI4PD Workshop 2023. This workshop focused on the
 
 ## Useful Links
 
+
+## notes
+installation of submodules: git pull --recurse-submodules
+
