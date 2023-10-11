@@ -2,6 +2,32 @@
 
 We are pleased to announce the AI4PD Workshop 2023. This workshop focused on the intersection of AI and Protein Design will be held in Puerto Varas, Chile. Below is a highlight of the scientific sessions.
 
+## AWS Installation Instructions
+
+To successfully set up the workshop environment on AWS, follow the steps below:
+
+1. First, clone the AI4PD_2023 repository along with its submodules using the following git command:
+
+```bash
+git clone --recurse-submodules https://github.com/pb3lab/AI4PD_2023.git
+```
+This command will download the main repository and all associated submodules.
+
+2. Navigate into the cloned repository:
+
+```bash
+cd AI4PD_2023
+```
+
+3. Now, install the ColabDesign package. This package contains useful tools for protein design. You can install it using pip:
+
+```bash
+python3.9 -m pip install -q git+https://github.com/sokrypton/ColabDesign.git
+```
+
+After following these steps, you should have a working environment ready for the AI4PD workshop. If you encounter any problems during the installation, please contact the workshop organizers for assistance.
+
+
 ## Day 1: Tuesday, October 10
 
 ### Welcome Ceremony
@@ -39,4 +65,9 @@ We are pleased to announce the AI4PD Workshop 2023. This workshop focused on the
 
 
 ## Useful Links
+diffusion notebook: https://colab.research.google.com/github/sokrypton/ColabDesign/blob/main/rf/examples/diffusion.ipynb
+
+
+## notes
+installation of submodules: git pull --recurse-submodules
 
