@@ -11,7 +11,7 @@ To successfully set up the workshop environment on AWS, follow the steps below:
 ```bash
 git clone --recurse-submodules https://github.com/pb3lab/AI4PD_2023.git
 ```
-This command will download the main repository and all associated submodules.
+This command will download the main repository and all associated submodules. If using Amazon SageMaker, use the interface to clone repo into folder. 
 
 2. Navigate into the cloned repository:
 
