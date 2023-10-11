@@ -22,7 +22,7 @@ cd AI4PD_2023
 3. Now, install the ColabDesign package. This package contains useful tools for protein design. You can install it using pip:
 
 ```bash
-pip install -q git+https://github.com/sokrypton/ColabDesign.git
+python3.9 -m pip install -q git+https://github.com/sokrypton/ColabDesign.git
 ```
 
 After following these steps, you should have a working environment ready for the AI4PD workshop. If you encounter any problems during the installation, please contact the workshop organizers for assistance.
