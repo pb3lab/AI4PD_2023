@@ -39,6 +39,7 @@ We are pleased to announce the AI4PD Workshop 2023. This workshop focused on the
 
 
 ## Useful Links
+diffusion notebook: https://colab.research.google.com/github/sokrypton/ColabDesign/blob/main/rf/examples/diffusion.ipynb
 
 
 ## notes
